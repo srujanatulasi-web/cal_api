@@ -16,6 +16,7 @@
 
  ---
  ## Project Structure
+ ```
  room_booking_app/
 │
 ├── backend/
@@ -26,7 +27,7 @@
 │
 └── README.md
 
----
+```
 ## How to Run
 ### 1.Run Backend
 ```bash
